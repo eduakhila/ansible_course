@@ -1,2 +1,2 @@
-956e87d6d32c.mylabserver.com
-956e87d6d33c.mylabserver.com
+956e87d6d32c.mylabserver.com apache_package=apache2 php_package=libapache2-mod-php
+956e87d6d33c.mylabserver.com apache_package=httpd php_package=php
